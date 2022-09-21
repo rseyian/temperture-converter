@@ -1,2 +1,2 @@
-# api-google-language-translator
-A simple gui language translator
+# temperture convertor app
+what to say... will add later.
